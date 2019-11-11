@@ -72,26 +72,25 @@
 	    	simulate_gravity="0" >
 	    </VerletPhysicsComponent>
 
-		<Base file="data/entities/projectiles/tentacle/tentacle_4.xml" />
-		<Base file="data/entities/projectiles/tentacle/tentacle_4.xml" />
-		<Base file="data/entities/projectiles/tentacle/tentacle_4.xml" />
-		<Base file="data/entities/projectiles/tentacle/tentacle_4.xml" />
+		<Base file="files/projectiles/hermit_segment.xml" />
+		<Base file="files/projectiles/hermit_segment.xml" />
+		<Base file="files/projectiles/hermit_segment.xml" />
+		<Base file="files/projectiles/hermit_segment.xml" />
 		
-		<Base file="data/entities/projectiles/tentacle/tentacle_4.xml" />
-		<Base file="data/entities/projectiles/tentacle/tentacle_4.xml" />
-		<Base file="data/entities/projectiles/tentacle/tentacle_4.xml" />
-		<Base file="data/entities/projectiles/tentacle/tentacle_4.xml" />
+		<Base file="files/projectiles/hermit_segment.xml" />
+		<Base file="files/projectiles/hermit_segment.xml" />
+		<Base file="files/projectiles/hermit_segment.xml" />
+		<Base file="files/projectiles/hermit_segment.xml" />
 		
-		<Base file="data/entities/projectiles/tentacle/tentacle_4.xml" />
-		<Base file="data/entities/projectiles/tentacle/tentacle_4.xml" />
-		<Base file="data/entities/projectiles/tentacle/tentacle_4.xml" />
-		<Base file="data/entities/projectiles/tentacle/tentacle_4.xml" />
+		<Base file="files/projectiles/hermit_segment.xml" />
+		<Base file="files/projectiles/hermit_segment.xml" />
+		<Base file="files/projectiles/hermit_segment.xml" />
+		<Base file="files/projectiles/hermit_segment.xml" />
 		
-		<Base file="data/entities/projectiles/tentacle/tentacle_4.xml" />
-		<Base file="data/entities/projectiles/tentacle/tentacle_4.xml" />
-		<Base file="data/entities/projectiles/tentacle/tentacle_4.xml" />
-		<Base file="data/entities/projectiles/tentacle/tentacle_4.xml" />
-		
+		<Base file="files/projectiles/hermit_segment.xml" />
+		<Base file="files/projectiles/hermit_segment.xml" />
+		<Base file="files/projectiles/hermit_segment.xml" />
+		<Base file="files/projectiles/hermit_segment.xml" />		
 	</Entity>
 
 <!-- Borrowed from thunderball spell -->
