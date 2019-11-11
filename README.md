@@ -2,10 +2,10 @@
 Adds spells and perks related to the JoJo's Bizarre Adventure universe
 
 ## Implemented
-
-## WIP
 ### Perks
 Hermit Purple and Hamon on kick
+
+## WIP
 ### Spells
 Hermit Purple and Hamon
 
