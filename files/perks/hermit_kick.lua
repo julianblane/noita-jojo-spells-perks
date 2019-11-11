@@ -1,12 +1,6 @@
 dofile( "data/scripts/lib/utilities.lua" )
 dofile( "data/scripts/lib/coroutines.lua" )
 
--- Useful:
--- ControlsComponent
--- mAimingVector                                                   -                               ""
--- mAimingVectorNormalized                                         -                               "Aiming vector normalized to unit sphere."
--- mAimingVectorNonZeroLatest
-
 -- Player
 local entity_id = GetUpdatedEntityID()
 

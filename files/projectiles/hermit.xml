@@ -24,7 +24,7 @@
 		knockback_force="2.0"
 		>
 		<damage_by_type
-			melee="0.5"
+			melee="0.25"
 			electricity="0.5"
 			>
 		</damage_by_type>
@@ -99,7 +99,7 @@
     sprite_file="data/particles/spark_electric.xml"
     delay="0"
     lifetime="0"
-    color.r="1" color.g="1" color.b="1" color.a="1"
+    color.r="1" color.g="0.75" color.b="0" color.a="1"
     color_change.r="0" color_change.g="0" color_change.b="0" color_change.a="0"
     velocity.x="0" velocity.y="0"
     gravity.x="0" gravity.y="10"
