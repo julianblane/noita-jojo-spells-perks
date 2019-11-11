@@ -8,7 +8,9 @@ table.insert( perk_list, {
 			EntityAddComponent( entity_who_picked, "LuaComponent", 
 			{ 
 				script_source_file = "files/perks/hermit_kick.lua",
-				execute_every_n_frame = "1",
+				execute_on_added = "1",
+				execute_every_n_frame = "-1",
+				enable_coroutines = "1",
 			} )
 		end,
 	})
