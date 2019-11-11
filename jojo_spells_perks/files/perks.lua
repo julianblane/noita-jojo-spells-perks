@@ -1,9 +1,9 @@
 table.insert( perk_list, {
-		id = "JOJO_HERMIT_KICK",
-		ui_name = "Hermit Purple Kick",
-		ui_description = "Use hermit purple alongside your kick",
-		ui_icon = "data/ui_gfx/gun_actions/tentacle.png",
-		perk_icon = "data/ui_gfx/gun_actions/tentacle.png",
+		id = "JOJO_HERMIT_HAMON_KICK",
+		ui_name = "Hermit Purple and Hamon Kick",
+		ui_description = "Use Hermit Purple and hamon alongside your kick.",
+		ui_icon = "files/perks/perk_ui/hermit_hamon_kick.png",
+		perk_icon = "files/perks/perk_icons/hermit_hamon_kick.png",
 		func = function( entity_perk_item, entity_who_picked, item_name )
 			EntityAddComponent( entity_who_picked, "LuaComponent", 
 			{ 
