@@ -134,10 +134,11 @@
 Checkout ElectricitySourceComponent
 -->
 
-<AudioComponent
+<AudioLoopComponent
   file="data/audio/Desktop/projectiles.snd"
-  event_root="projectiles/tentacle">
-</AudioComponent>
+  event_name="projectiles/electric/loop"
+  auto_play="1">
+</AudioLoopComponent>
 
 </Entity>
 
