@@ -17,4 +17,3 @@ table.insert(actions,
 			c.fire_rate_wait = c.fire_rate_wait + 40
 		end,
 })
-
