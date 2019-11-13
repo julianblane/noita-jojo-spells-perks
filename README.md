@@ -7,6 +7,7 @@ Adds spells and perks related to the JoJo's Bizarre Adventure universe
 [**Spell**] Hermit Purple and Hamon
 
 [**Perk**] Hermit Purple and Hamon on kick
+[**Perk**] Stand companion - A stand wielding a wand like yours aids you in battle
 
 ## WIP
 
