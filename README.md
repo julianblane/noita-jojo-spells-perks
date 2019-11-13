@@ -14,3 +14,9 @@ Adds spells and perks related to the JoJo's Bizarre Adventure universe
 
 ## Planned
 Shabon Launcher
+
+# Tools used - Special thanks
+Thanks to **Horscht** for the helpful tips
+
+Thanks to **gokiburikin** and [their wand copying script](https://github.com/gokiburikin/gkbrkn_noita/blob/9734b6a113b8643d74e21250ed0eafeca4a825bf/files/gkbrkn/helper.lua)
+
