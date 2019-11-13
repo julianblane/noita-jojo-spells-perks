@@ -1,0 +1,20 @@
+<Entity name="stand">
+	<Base file="data/entities/base_apparition.xml">
+		<CameraBoundComponent
+			_enabled="0"
+			max_count="30"
+			distance="160000">
+		</CameraBoundComponent>
+	</Base>
+
+	<MusicEnergyAffectorComponent
+		energy_target="0.5">
+	</MusicEnergyAffectorComponent>
+
+	<AudioLoopComponent
+		file="data/audio/Desktop/animals.snd"
+		event_name="animals/ghost/movement_loop"
+		set_speed_parameter="1"
+		auto_play="1">
+	</AudioLoopComponent>
+</Entity>

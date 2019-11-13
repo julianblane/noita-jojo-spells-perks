@@ -14,3 +14,20 @@ table.insert( perk_list, {
 			} )
 		end,
 	})
+
+table.insert( perk_list, {
+		id = "JOJO_GENERIC_STAND",
+		ui_name = "Stand Companion",
+		ui_description = "A stand will appear and aid you in battle, wielding a wand like yours.",
+		ui_icon = "files/perks/perk_ui/generic_stand.png",
+		perk_icon = "files/perks/perk_icons/generic_stand.png",
+		func = function( entity_perk_item, entity_who_picked, item_name )
+			EntityAddComponent( entity_who_picked, "LuaComponent", 
+			{ 
+				script_source_file = "files/perks/generic_stand_companion.lua",
+				execute_on_added = "1",
+				execute_every_n_frame = "-1",
+				enable_coroutines = "1",
+			} )
+		end,
+	})
