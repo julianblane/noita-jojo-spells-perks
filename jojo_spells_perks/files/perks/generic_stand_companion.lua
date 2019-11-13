@@ -55,7 +55,7 @@ async(
           -- Check if the stand is too far away
           local sx, sy = EntityGetTransform (stand)
           local distance = get_distance(x, y, sx, sy)     
-          if distance > 200 then
+          if distance > 250 then
             EntityKill(stand)
             stand = nil
             stand_wand = nil

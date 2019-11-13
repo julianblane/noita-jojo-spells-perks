@@ -19,8 +19,8 @@ table.insert( perk_list, {
 		id = "JOJO_GENERIC_STAND",
 		ui_name = "Stand Companion",
 		ui_description = "A stand will appear and aid you in battle, wielding a wand like yours.",
-		ui_icon = "files/perks/perk_ui/hermit_hamon_kick.png",
-		perk_icon = "files/perks/perk_icons/hermit_hamon_kick.png",
+		ui_icon = "files/perks/perk_ui/generic_stand.png",
+		perk_icon = "files/perks/perk_icons/generic_stand.png",
 		func = function( entity_perk_item, entity_who_picked, item_name )
 			EntityAddComponent( entity_who_picked, "LuaComponent", 
 			{ 
